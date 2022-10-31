@@ -23,4 +23,5 @@ $ g++ consumer.cpp -pthread -lrt -o consumer
 $ ./producer & ./consumer &
 
 Output:
-![Screenshot (45)](https://user-images.githubusercontent.com/117044135/199099514-4b8d91c1-2c66-40c9-980f-b9056d337316.png)
+
+![Screenshot (52)](https://user-images.githubusercontent.com/117044135/199099724-ffce00b6-61fb-4b5b-bf82-4655bffefe8e.png)
