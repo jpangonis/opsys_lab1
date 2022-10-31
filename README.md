@@ -1,4 +1,4 @@
-# opsys_lab1
+# Operating Systems Lab 1: Producer and Consumer problem
 
 Operating Systems: Programming Assignment 1
 
@@ -24,4 +24,4 @@ $ ./producer & ./consumer &
 
 Output:
 
-![Screenshot (52)](https://user-images.githubusercontent.com/117044135/199099724-ffce00b6-61fb-4b5b-bf82-4655bffefe8e.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/117044135/199100295-d600f83d-869e-43da-8cae-e840933c6265.png)
